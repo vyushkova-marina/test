@@ -1,1 +1,2 @@
 message=text message from git 
+test=test
